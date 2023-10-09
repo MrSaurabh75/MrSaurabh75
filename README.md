@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
 - **Programming Languages** :
-    
-    ![Java]()&nbsp;
+    ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
     ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 	
