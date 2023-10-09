@@ -53,15 +53,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/bar.gif"><br><br>
 ## <img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/stat.gif" width="35"><b> Github Stats </b>
 <br>
-<div align="center">
-<a href="https://github.com/MrRobotMsk07/">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrRobotMsk07&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-<br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrRobotMsk07&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="MrRobotMsk07"/>
-<br>
-<img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/bar.gif"><br><br>
-![](https://komarev.com/ghpvc/?username=MrRobotMsk07&color=ff69b4)&nbsp;
-![](https://img.shields.io/github/followers/MrRobotMsk07?style=plastic/-GitHub-05122A?style=flat&logo=github&color=blue)&nbsp;
-![](https://img.shields.io/github/last-commit/MrRobotMsk07/MrRobotMsk07?color=orange)&nbsp;
+
 </a>
 </div>
