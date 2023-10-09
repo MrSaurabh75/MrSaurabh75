@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/bar.gif"><br><br>
 ## <img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/handshake.gif" width ="80"> Connect with me ..!
 <a href="https://www.linkedin.com/in/saurabh-chorge-237996202/" target="_blank"><img align="left" alt="MrRobotMsk07 | LinkedIn" width="32px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
+<a href="https://www.instagram.com/saurabh_chorge_7575/" target="_blank"><img align="left" alt="MrRobotMsk07 | Instagram" width="32px" src="https://img.icons8.com/fluency/96/000000/instagram-new.png" />
 <br><br>
 ## <img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/script_Logo.gif" width ="25"><b> Skills</b>
 <br>
