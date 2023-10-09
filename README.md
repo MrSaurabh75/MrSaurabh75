@@ -34,8 +34,10 @@ Here are some ideas to get you started:
 ## <img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/script_Logo.gif" width ="25"><b> Skills</b>
 <br>
 <p align="center">
+	
+- 💬 Ask me about **HTML,CSS,JavaScript,Java**
 - **Programming Languages** :
-    ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 	
