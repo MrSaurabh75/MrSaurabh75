@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
 - **Programming Languages** :
-    ![Java]()&nbsp;
+    ![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=JAVA)&nbsp;
 <br>   
     
 - **Front-End Development** :
