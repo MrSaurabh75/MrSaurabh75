@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone;Welcome+to+my+Github+Profile..+:);I'm+Master+Of+Computer+Science+Student;I'm+Looking+forward+to+learn+new+stuffs..+:)"></a>
 </p>
-## <picture><img src = "https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/about_me.gif" width = 50px></picture> **About me**
+## <img src = "https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/about_me.gif" width = 50px>About me
 <picture> <img align="right" src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/Right_Side.gif" width = 250px></picture>
 <br>
 <br>
