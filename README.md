@@ -22,8 +22,13 @@ Here are some ideas to get you started:
 
 - 🔭 A passionate Master Of Computer Science Student
 - 📬 &nbsp;You can email me at saurabhdc7575@gmail.com. I'll try to respond as soon as possible!
-- 📄 I’m currently open for an Intern or a new job opportunity.
-- 📄 I’m currently open for an Intern or a new job opportunity.
+- 📄 I’m currently open for an Intern or a new job opportunity,this my <a
+              rel="noreferrer"
+              target="_blank"
+              class="cta-btn cta-btn--resume"
+              href="https://drive.google.com/file/d/1mGjxHIVqJtjiW6QeEXfQNkcnAaX9O8o1/view?usp=drive_link"
+            >Resume
+
 
 
 <img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/bar.gif"><br><br>
