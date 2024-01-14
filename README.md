@@ -26,7 +26,7 @@ Here are some ideas to get you started:
               rel="noreferrer"
               target="_blank"
               class="cta-btn cta-btn--resume"
-              href="https://drive.google.com/file/d/1mGjxHIVqJtjiW6QeEXfQNkcnAaX9O8o1/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1DuKMtJBCJgdxF4lnPwPq_zx2DaR6tvW6/view"
             >Resume
 
 
