@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-- 🔭 A passionate Master Of Computer Science Student
+- 🔭 A passionate Master Of Computer Application Student
 - 📬 &nbsp;You can email me at saurabhdc7575@gmail.com. I'll try to respond as soon as possible!
 - 📄 I’m currently open for an Intern or a new job opportunity,this my <a
               rel="noreferrer"
